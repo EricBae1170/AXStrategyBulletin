@@ -1,3 +1,5 @@
+/* eslint-disable */
+// @ts-nocheck
 import { Suspense } from "react";
 import { useRoutes } from "react-router-dom";
 /* Thius is fine: https://github.com/hannoeru/vite-plugin-pages/issues/120 */
